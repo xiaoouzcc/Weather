@@ -1,0 +1,7 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:color="@color/main_red_color" android:state_checked="true" />//选中颜色
+    <item android:color="@color/main_tab_color" android:state_checked="false" />//未被选中颜色
+    <item android:color="@color/main_tab_color" />//初始颜色
+    <item android:color="@color/main_red_color" android:state_focused="true" />//选中颜色
+</selector>
